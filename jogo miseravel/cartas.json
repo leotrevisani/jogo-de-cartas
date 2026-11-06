@@ -1,0 +1,6 @@
+[
+    { "nome": "Guerreiro", "forca": 7 },
+    { "nome": "Paladino", "forca": 6 },
+    { "nome": "Lobo", "forca": 5 },
+    { "nome": "Coringa", "forca": 9 }
+]
